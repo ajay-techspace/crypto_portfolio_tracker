@@ -1,12 +1,14 @@
 # Crypto Portfolio Tracker
 
-A simple Python project to track your cryptocurrency portfolio, calculate returns, and visualize your holdings.
+Track and analyze your cryptocurrency investments in real-time using Python. This command-line tool calculates individual and total returns, fetches live market prices, and visualizes your portfolio distribution.
 
-## Features
+## 🚀 Features
 
-- Calculates profit/loss for each coin
-- Fetches live prices (or use manual prices)
-- Visualizes portfolio distribution with charts
+- 📈 Calculates portfolio value, cost basis, and profit/loss per asset
+- 🔄 Fetches real-time prices from the CoinGecko API (or supports manual pricing)
+- 📊 Visualizes asset allocation and returns using pie and bar charts
+- ✅ Supports CSV input for easy data entry and updates
+- 🛡 Robust error handling and input validation
 
 ## Setup
 
